@@ -1,4 +1,4 @@
-# 🎓 MoodleNext - Learning Management System
+# 🎓 ubeMoodle - Learning Management System
 
 <div align="center">
 
